@@ -1,24 +1,20 @@
-# project
+# 日记管理发布
 
-## Project setup
+## 项目初始化
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 项目运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 项目打包
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+此项目暂处于开发中
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+2020年8月8日 23点01分
